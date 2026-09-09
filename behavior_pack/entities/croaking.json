@@ -1,0 +1,28 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "resin:croaking",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:type_family": {"family": ["croaking", "monster", "mob"]},
+      "minecraft:nameable": {},
+      "minecraft:health": {"value": 300, "max": 300},
+      "minecraft:attack": {"damage": 18},
+      "minecraft:movement": {"value": 0.22},
+      "minecraft:collision_box": {"width": 1.8, "height": 3.8},
+      "minecraft:navigation.walk": {"can_path_over_water": false, "avoid_damage_blocks": true},
+      "minecraft:behavior.nearest_attackable_target": {"priority": 1, "must_see": false, "entity_types": [{"filters": {"test": "is_family", "subject": "other", "value": "player"}, "max_dist": 48}]},
+      "minecraft:behavior.melee_attack": {"priority": 2, "track_target": true, "reach_multiplier": 1.5},
+      "minecraft:behavior.random_stroll": {"priority": 6, "speed_multiplier": 0.45},
+      "minecraft:behavior.look_at_player": {"priority": 7, "look_distance": 16},
+      "minecraft:behavior.random_look_around": {"priority": 8},
+      "minecraft:physics": {},
+      "minecraft:pushable": {"is_pushable": false, "is_pushable_by_piston": false},
+      "minecraft:loot": "loot_tables/entities/croaking.json"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:biome": {
+    "description": {"identifier": "resin:deep_end"},
+    "components": {
+      "minecraft:climate": {"temperature": 0.0, "downfall": 0.0},
+      "minecraft:overworld_height": {"noise_type": "amplified"},
+      "minecraft:surface_parameters": {
+        "sea_floor_depth": 8,
+        "sea_floor_material": "resin:corrupted_resin",
+        "foundation_material": "minecraft:deepslate",
+        "mid_material": "resin:resin_soil",
+        "top_material": "resin:corrupted_resin"
+      },
+      "minecraft:overworld_generation_rules": {"generate_for_climates": [["cold", 1]]}
+    }
+  }
+}

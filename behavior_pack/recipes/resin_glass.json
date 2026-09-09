@@ -1,0 +1,10 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {"identifier": "resin:resin_glass"},
+    "tags": ["crafting_table"],
+    "pattern": ["SSS", "SRS", "SSS"],
+    "key": {"S": {"item": "minecraft:glass"}, "R": {"item": "resin:resin_crystal"}},
+    "result": {"item": "resin:resin_glass", "count": 8}
+  }
+}

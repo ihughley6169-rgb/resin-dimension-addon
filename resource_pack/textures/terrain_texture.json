@@ -6,6 +6,14 @@
     "resin_log": {"textures": "textures/blocks/resin_log"},
     "resin_planks": {"textures": "textures/blocks/resin_planks"},
     "resin_leaves": {"textures": "textures/blocks/resin_leaves"},
-    "resin_roots": {"textures": "textures/blocks/resin_roots"}
+    "resin_roots": {"textures": "textures/blocks/resin_roots"},
+    "resin_bricks": {"textures": "textures/blocks/resin_bricks"},
+    "resin_glass": {"textures": "textures/blocks/resin_glass"},
+    "resin_soil": {"textures": "textures/blocks/resin_soil"},
+    "resin_grass_top": {"textures": "textures/blocks/resin_grass_top"},
+    "resin_grass_side": {"textures": "textures/blocks/resin_grass_side"},
+    "corrupted_resin": {"textures": "textures/blocks/corrupted_resin"},
+    "resin_tree_log": {"textures": "textures/blocks/resin_tree_log"},
+    "resin_tree_leaves": {"textures": "textures/blocks/resin_tree_leaves"}
   }
 }

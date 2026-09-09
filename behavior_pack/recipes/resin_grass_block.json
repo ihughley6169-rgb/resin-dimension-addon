@@ -1,0 +1,10 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {"identifier": "resin:resin_grass_block"},
+    "tags": ["crafting_table"],
+    "pattern": ["LL", "SS"],
+    "key": {"L": {"item": "resin:resin_leaves"}, "S": {"item": "resin:resin_soil"}},
+    "result": {"item": "resin:resin_grass_block", "count": 2}
+  }
+}

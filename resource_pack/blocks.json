@@ -19,5 +19,33 @@
   "resin:resin_roots": {
     "textures": "resin_roots",
     "sound": "roots"
+  },
+  "resin:resin_bricks": {
+    "textures": "resin_bricks",
+    "sound": "stone"
+  },
+  "resin:resin_glass": {
+    "textures": "resin_glass",
+    "sound": "glass"
+  },
+  "resin:resin_soil": {
+    "textures": "resin_soil",
+    "sound": "grass"
+  },
+  "resin:resin_grass_block": {
+    "textures": "resin_grass_side",
+    "sound": "grass"
+  },
+  "resin:corrupted_resin": {
+    "textures": "corrupted_resin",
+    "sound": "sculk"
+  },
+  "resin:resin_tree_log": {
+    "textures": "resin_tree_log",
+    "sound": "wood"
+  },
+  "resin:resin_tree_leaves": {
+    "textures": "resin_tree_leaves",
+    "sound": "grass"
   }
 }

@@ -1,24 +1,24 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Resindimension v4 | Behavior",
-    "description": "Gameplay for the Resindimension v4 Bedrock add-on.",
+    "name": "Resindimension v6 | Behavior",
+    "description": "Resindimension v6 by Viroda1: the corrupted Overres, resin trees, golems, and the Croaking boss.",
     "uuid": "2bb8ce72-41a3-4e19-8cb5-e54e332c5a01",
-    "version": [4, 0, 0],
+    "version": [6, 0, 0],
     "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {
       "type": "data",
       "uuid": "2bb8ce72-41a3-4e19-8cb5-e54e332c5a02",
-      "version": [4, 0, 0]
+      "version": [6, 0, 0]
     },
     {
       "type": "script",
       "language": "javascript",
       "entry": "scripts/main.js",
       "uuid": "2bb8ce72-41a3-4e19-8cb5-e54e332c5a03",
-      "version": [4, 0, 0]
+      "version": [6, 0, 0]
     }
   ],
   "dependencies": [

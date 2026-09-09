@@ -1,0 +1,12 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:block": {
+    "description": {"identifier": "resin:resin_glass", "menu_category": {"category": "construction", "group": "itemGroup.name.resin"}},
+    "components": {
+      "minecraft:destroy_time": 0.3,
+      "minecraft:explosion_resistance": 0.3,
+      "minecraft:map_color": "#A4AAA4",
+      "minecraft:material_instances": {"*": {"texture": "resin_glass", "render_method": "blend"}}
+    }
+  }
+}

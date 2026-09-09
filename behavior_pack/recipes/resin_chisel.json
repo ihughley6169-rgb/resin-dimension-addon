@@ -1,0 +1,10 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {"identifier": "resin:resin_chisel"},
+    "tags": ["crafting_table"],
+    "pattern": ["N", "S"],
+    "key": {"N": {"item": "resin:resin_nugget"}, "S": {"item": "minecraft:stick"}},
+    "result": {"item": "resin:resin_chisel", "count": 1}
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:block": {
+    "description": {"identifier": "resin:resin_grass_block", "menu_category": {"category": "construction", "group": "itemGroup.name.resin"}},
+    "components": {
+      "minecraft:destroy_time": 0.8,
+      "minecraft:explosion_resistance": 0.5,
+      "minecraft:map_color": "#252B27",
+      "minecraft:material_instances": {
+        "*": {"texture": "resin_grass_side", "render_method": "opaque"},
+        "up": {"texture": "resin_grass_top", "render_method": "opaque"},
+        "down": {"texture": "resin_soil", "render_method": "opaque"}
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {"identifier": "resin:heart_of_the_creak", "is_experimental": false, "menu_category": {"category": "items", "group": "itemGroup.name.resin"}},
+    "components": {
+      "minecraft:icon": {"texture": "heart_of_the_creak"},
+      "minecraft:display_name": {"value": "item.resin:heart_of_the_creak"},
+      "minecraft:max_stack_size": 1,
+      "minecraft:glint": true
+    }
+  }
+}

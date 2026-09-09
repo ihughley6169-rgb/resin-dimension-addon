@@ -1,0 +1,12 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:block": {
+    "description": {"identifier": "resin:resin_bricks", "menu_category": {"category": "construction", "group": "itemGroup.name.resin"}},
+    "components": {
+      "minecraft:destroy_time": 2.2,
+      "minecraft:explosion_resistance": 6,
+      "minecraft:map_color": "#777A75",
+      "minecraft:material_instances": {"*": {"texture": "resin_bricks", "render_method": "opaque"}}
+    }
+  }
+}

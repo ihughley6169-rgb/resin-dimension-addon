@@ -1,0 +1,11 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:fog_settings": {
+    "description": {"identifier": "resin:resin_dimension_fog"},
+    "distance_fog": {
+      "air": {"fog_color": "#59605B", "fog_start": 0.45, "fog_end": 0.9},
+      "weather": {"fog_color": "#414642", "fog_start": 0.35, "fog_end": 0.75}
+    },
+    "volumetric_fog": {"density": {"air": 0.04, "weather": 0.08}}
+  }
+}

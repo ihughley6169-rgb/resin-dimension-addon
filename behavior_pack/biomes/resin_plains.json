@@ -9,8 +9,8 @@
         "sea_floor_depth": 7,
         "sea_floor_material": "minecraft:stone",
         "foundation_material": "minecraft:deepslate",
-        "mid_material": "resin:resin_block",
-        "top_material": "resin:resin_block"
+        "mid_material": "resin:resin_soil",
+        "top_material": "resin:resin_grass_block"
       },
       "minecraft:overworld_generation_rules": {
         "generate_for_climates": [["medium", 3]]

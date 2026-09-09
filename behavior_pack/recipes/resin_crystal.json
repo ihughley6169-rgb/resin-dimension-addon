@@ -1,0 +1,10 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {"identifier": "resin:resin_crystal"},
+    "tags": ["crafting_table"],
+    "pattern": ["NNN", "NIN", "NNN"],
+    "key": {"N": {"item": "resin:resin_nugget"}, "I": {"item": "resin:resin_ingot"}},
+    "result": {"item": "resin:resin_crystal", "count": 1}
+  }
+}

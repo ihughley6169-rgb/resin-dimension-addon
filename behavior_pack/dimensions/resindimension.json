@@ -9,8 +9,9 @@
           "ambient_light": 0.1,
           "has_fixed_time": true,
           "time": 13000,
-          "fog_color": "#4A3C31",
-          "sky_color": "#1A120B"
+          "fog_color": "#171B18",
+          "sky_color": "#080B0A",
+          "cloud_height": 192
         }
       }
     ]

@@ -1,11 +1,11 @@
-# Resindimension v4
+# Resindimension v6
 
-A Minecraft Bedrock add-on with a custom dimension, a scripted Totem of Transcendence portal, resin gear, gray Creaking-inspired wood and plants, and natural vanilla golem spawning.
+A Minecraft Bedrock add-on by Viroda1 that turns the Overworld into the corrupted Overres: dark resin grass, resin trees, vanilla golems, and the underground Croaking boss.
 
 ## Install
 
-1. Create a ZIP archive containing the `behavior_pack` and `resource_pack` folders at its root, then rename it to `Resindimension_v4.mcaddon`.
-2. Open `Resindimension_v4.mcaddon` with Minecraft Bedrock Edition.
+1. Create a ZIP archive containing the `behavior_pack` and `resource_pack` folders at its root, then rename it to `Resindimension_v6.mcaddon`.
+2. Open `Resindimension_v6.mcaddon` with Minecraft Bedrock Edition.
 3. Create or edit a world and activate both packs. Enable the Script API / Beta APIs required by your Bedrock version.
 4. In the world, obtain the starter items with `/give @s resin:raw_resin 4` and `/give @s resin:totem_of_transcendence`.
 5. Craft or place a `Resin Block`, hold the Totem of Transcendence, and right-click/use it on the block.
@@ -22,6 +22,10 @@ To import the packs separately, zip each folder with its `manifest.json` at the 
 - Resin Edge, Resin Maul, resin axe, pickaxe, shovel, hoe, and a complete Resin armor set.
 - Resin Nuggets and Resin Ingots for crafting.
 - Gray Resin Log, Planks, Leaves, and Roots using the supplied Creaking-style palette.
+- Resin Guide book, Resin Crystal, Resin Lantern, Resin Apple, Resin Chisel, Resin Bricks, and Resin Glass.
+- A gray dimension atmosphere with custom fog and sky artwork.
+- The Croaking, a large underground boss in the Deep End, drops the Heart of the Creak.
+- The Heart of the Creak spreads orange corruption through Overworld soil, stone, and grass.
 - Creative-menu and language registrations for the pack content.
 
 ## Compatibility note

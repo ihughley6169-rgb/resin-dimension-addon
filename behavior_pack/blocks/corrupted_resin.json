@@ -1,0 +1,13 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:block": {
+    "description": {"identifier": "resin:corrupted_resin", "menu_category": {"category": "construction", "group": "itemGroup.name.resin"}},
+    "components": {
+      "minecraft:destroy_time": 1.5,
+      "minecraft:explosion_resistance": 4,
+      "minecraft:map_color": "#D84D12",
+      "minecraft:light_emission": 4,
+      "minecraft:material_instances": {"*": {"texture": "corrupted_resin", "render_method": "opaque"}}
+    }
+  }
+}

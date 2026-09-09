@@ -1,0 +1,10 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {"identifier": "resin:resin_apple"},
+    "tags": ["crafting_table"],
+    "pattern": ["NNN", "NAN", "NNN"],
+    "key": {"N": {"item": "resin:resin_nugget"}, "A": {"item": "minecraft:apple"}},
+    "result": {"item": "resin:resin_apple", "count": 1}
+  }
+}

@@ -2,19 +2,25 @@
   "resource_pack_name": "resindimension",
   "texture_name": "atlas.items",
   "texture_data": {
-    "raw_resin": {"textures": "textures/items/slime_ball"},
+    "raw_resin": {"textures": "textures/items/raw_resin"},
     "resin_nugget": {"textures": "textures/items/resin_nugget"},
     "resin_ingot": {"textures": "textures/items/resin_ingot"},
-    "totem_of_transcendence": {"textures": "textures/items/totem"},
-    "resin_sword": {"textures": "textures/items/diamond_sword"},
-    "resin_hammer": {"textures": "textures/items/iron_axe"},
-    "resin_axe": {"textures": "textures/items/diamond_axe"},
-    "resin_pickaxe": {"textures": "textures/items/diamond_pickaxe"},
-    "resin_shovel": {"textures": "textures/items/diamond_shovel"},
-    "resin_hoe": {"textures": "textures/items/diamond_hoe"},
-    "resin_helmet": {"textures": "textures/models/armor/diamond_layer_1"},
-    "resin_chestplate": {"textures": "textures/models/armor/diamond_layer_1"},
-    "resin_leggings": {"textures": "textures/models/armor/diamond_layer_2"},
-    "resin_boots": {"textures": "textures/models/armor/diamond_layer_1"}
+    "totem_of_transcendence": {"textures": "textures/items/totem_of_transcendence"},
+    "resin_sword": {"textures": "textures/items/resin_sword"},
+    "resin_hammer": {"textures": "textures/items/resin_hammer"},
+    "resin_axe": {"textures": "textures/items/resin_axe"},
+    "resin_pickaxe": {"textures": "textures/items/resin_pickaxe"},
+    "resin_shovel": {"textures": "textures/items/resin_shovel"},
+    "resin_hoe": {"textures": "textures/items/resin_hoe"},
+    "resin_helmet": {"textures": "textures/items/resin_helmet"},
+    "resin_chestplate": {"textures": "textures/items/resin_chestplate"},
+    "resin_leggings": {"textures": "textures/items/resin_leggings"},
+    "resin_boots": {"textures": "textures/items/resin_boots"},
+    "resin_guide": {"textures": "textures/items/resin_guide"},
+    "resin_crystal": {"textures": "textures/items/resin_crystal"},
+    "resin_lantern": {"textures": "textures/items/resin_lantern"},
+    "resin_apple": {"textures": "textures/items/resin_apple"},
+    "resin_chisel": {"textures": "textures/items/resin_chisel"}
+    ,"heart_of_the_creak": {"textures": "textures/items/heart_of_the_creak"}
   }
 }
