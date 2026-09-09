@@ -1,0 +1,16 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "resin:resin_block",
+      "menu_category": {"category": "construction", "group": "itemGroup.name.resin"}
+    },
+    "components": {
+      "minecraft:destroy_time": 2.5,
+      "minecraft:explosion_resistance": 6,
+      "minecraft:friction": 0.65,
+      "minecraft:map_color": "#D64F88",
+      "minecraft:loot": "loot_tables/blocks/resin_block.json"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "resource_pack_name": "resindimension",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "raw_resin": {"textures": "textures/items/slime_ball"},
+    "totem_of_transcendence": {"textures": "textures/items/totem"},
+    "resin_sword": {"textures": "textures/items/diamond_sword"},
+    "resin_hammer": {"textures": "textures/items/iron_axe"},
+    "resin_helmet": {"textures": "textures/models/armor/diamond_layer_1"},
+    "resin_chestplate": {"textures": "textures/models/armor/diamond_layer_1"},
+    "resin_leggings": {"textures": "textures/models/armor/diamond_layer_2"},
+    "resin_boots": {"textures": "textures/models/armor/diamond_layer_1"}
+  }
+}

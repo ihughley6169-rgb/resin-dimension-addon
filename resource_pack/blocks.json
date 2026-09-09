@@ -1,0 +1,7 @@
+{
+  "format_version": [1, 1, 0],
+  "resin:resin_block": {
+    "textures": "resin_block",
+    "sound": "amethyst_block"
+  }
+}

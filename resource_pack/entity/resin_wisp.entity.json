@@ -1,0 +1,12 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "resin:resin_wisp",
+      "materials": {"default": "ghost"},
+      "textures": {"default": "textures/entity/allay/allay"},
+      "geometry": {"default": "geometry.allay"},
+      "render_controllers": ["controller.render.allay"]
+    }
+  }
+}

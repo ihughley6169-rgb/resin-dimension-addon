@@ -1,0 +1,10 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {"identifier": "resin:totem_of_transcendence"},
+    "tags": ["crafting_table"],
+    "pattern": ["CRC", "RGR", "CRC"],
+    "key": {"C": {"item": "minecraft:copper_ingot"}, "R": {"item": "resin:raw_resin"}, "G": {"item": "minecraft:gold_block"}},
+    "result": {"item": "resin:totem_of_transcendence", "count": 1}
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "resource_pack_name": "resindimension",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "resin_block": {"textures": "textures/blocks/amethyst_block"}
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:structure_template_feature": {
+    "description": {"identifier": "resin:resin_alter_feature"},
+    "structure_name": "resin:resin_alter",
+    "adjustment_radius": 8,
+    "facing_direction": "random",
+    "constraints": {"unburied": {}, "block_constraint": {"allowed_block": "resin:resin_block"}}
+  }
+}

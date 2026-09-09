@@ -1,0 +1,20 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:biome": {
+    "description": {"identifier": "resin:resin_plains"},
+    "components": {
+      "minecraft:climate": {"temperature": 0.5, "downfall": 0.0},
+      "minecraft:overworld_height": {"noise_type": "default"},
+      "minecraft:surface_parameters": {
+        "sea_floor_depth": 7,
+        "sea_floor_material": "minecraft:stone",
+        "foundation_material": "minecraft:deepslate",
+        "mid_material": "resin:resin_block",
+        "top_material": "resin:resin_block"
+      },
+      "minecraft:overworld_generation_rules": {
+        "generate_for_climates": [["medium", 3]]
+      }
+    }
+  }
+}

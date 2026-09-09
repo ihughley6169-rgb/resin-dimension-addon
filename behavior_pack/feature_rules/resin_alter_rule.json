@@ -1,0 +1,13 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:feature_rules": {
+    "description": {"identifier": "resin:resin_alter_rule", "places_feature": "resin:resin_alter_feature"},
+    "conditions": {"placed_on": ["resin:resin_block"]},
+    "distribution": {
+      "iterations": 1,
+      "x": {"distribution": "uniform", "extent": [0, 16]},
+      "y": {"distribution": "uniform", "extent": [0, "surface"]},
+      "z": {"distribution": "uniform", "extent": [0, 16]}
+    }
+  }
+}
