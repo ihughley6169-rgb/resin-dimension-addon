@@ -2,6 +2,10 @@
   "resource_pack_name": "resindimension",
   "texture_name": "atlas.terrain",
   "texture_data": {
-    "resin_block": {"textures": "textures/blocks/amethyst_block"}
+    "resin_block": {"textures": "textures/blocks/resin_block"},
+    "resin_log": {"textures": "textures/blocks/resin_log"},
+    "resin_planks": {"textures": "textures/blocks/resin_planks"},
+    "resin_leaves": {"textures": "textures/blocks/resin_leaves"},
+    "resin_roots": {"textures": "textures/blocks/resin_roots"}
   }
 }

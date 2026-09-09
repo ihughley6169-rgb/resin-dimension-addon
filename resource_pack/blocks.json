@@ -3,5 +3,21 @@
   "resin:resin_block": {
     "textures": "resin_block",
     "sound": "amethyst_block"
+  },
+  "resin:resin_log": {
+    "textures": "resin_log",
+    "sound": "wood"
+  },
+  "resin:resin_planks": {
+    "textures": "resin_planks",
+    "sound": "wood"
+  },
+  "resin:resin_leaves": {
+    "textures": "resin_leaves",
+    "sound": "grass"
+  },
+  "resin:resin_roots": {
+    "textures": "resin_roots",
+    "sound": "roots"
   }
 }

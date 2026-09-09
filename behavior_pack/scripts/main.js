@@ -1,4 +1,4 @@
-import { world, system, ItemStack } from "@minecraft/server";
+import { world, system } from "@minecraft/server";
 
 const SOURCE_BLOCK = "resin:resin_block";
 const TOTEM = "resin:totem_of_transcendence";
@@ -20,12 +20,4 @@ world.afterEvents.itemUseOn.subscribe((event) => {
     source.sendMessage("§dThe resin remembers you. Welcome to Resindimension.");
     source.playSound("portal.travel");
   });
-});
-
-world.afterEvents.entityDie.subscribe((event) => {
-  if (event.deadEntity.typeId !== "resin:resin_wisp") return;
-  event.deadEntity.dimension.spawnItem(
-    new ItemStack("resin:raw_resin", 1),
-    event.deadEntity.location
-  );
 });

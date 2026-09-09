@@ -1,0 +1,12 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:block": {
+    "description": {"identifier": "resin:resin_log", "menu_category": {"category": "construction", "group": "itemGroup.name.resin"}},
+    "components": {
+      "minecraft:destroy_time": 2.0,
+      "minecraft:explosion_resistance": 4,
+      "minecraft:map_color": "#686A66",
+      "minecraft:material_instances": {"*": {"texture": "resin_log", "render_method": "opaque"}}
+    }
+  }
+}

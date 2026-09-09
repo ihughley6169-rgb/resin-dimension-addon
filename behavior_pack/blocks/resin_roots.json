@@ -1,0 +1,12 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:block": {
+    "description": {"identifier": "resin:resin_roots", "menu_category": {"category": "construction", "group": "itemGroup.name.resin"}},
+    "components": {
+      "minecraft:destroy_time": 0.5,
+      "minecraft:explosion_resistance": 0.5,
+      "minecraft:map_color": "#6B6D68",
+      "minecraft:material_instances": {"*": {"texture": "resin_roots", "render_method": "opaque"}}
+    }
+  }
+}

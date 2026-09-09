@@ -1,0 +1,12 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:block": {
+    "description": {"identifier": "resin:resin_leaves", "menu_category": {"category": "construction", "group": "itemGroup.name.resin"}},
+    "components": {
+      "minecraft:destroy_time": 0.2,
+      "minecraft:explosion_resistance": 0.2,
+      "minecraft:map_color": "#72766F",
+      "minecraft:material_instances": {"*": {"texture": "resin_leaves", "render_method": "blend"}}
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {"identifier": "resin:resin_pickaxe"},
+    "tags": ["crafting_table"],
+    "pattern": ["III", " S ", " S "],
+    "key": {"I": {"item": "resin:resin_ingot"}, "S": {"item": "minecraft:stick"}},
+    "result": {"item": "resin:resin_pickaxe", "count": 1}
+  }
+}

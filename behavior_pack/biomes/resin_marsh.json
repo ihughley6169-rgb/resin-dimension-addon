@@ -1,0 +1,20 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:biome": {
+    "description": {"identifier": "resin:resin_marsh"},
+    "components": {
+      "minecraft:climate": {"temperature": 0.8, "downfall": 0.8},
+      "minecraft:overworld_height": {"noise_type": "default"},
+      "minecraft:surface_parameters": {
+        "sea_floor_depth": 6,
+        "sea_floor_material": "minecraft:mud",
+        "foundation_material": "minecraft:deepslate",
+        "mid_material": "minecraft:mud",
+        "top_material": "resin:resin_block"
+      },
+      "minecraft:overworld_generation_rules": {
+        "generate_for_climates": [["warm", 2]]
+      }
+    }
+  }
+}
